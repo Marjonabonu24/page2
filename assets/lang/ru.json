@@ -134,16 +134,16 @@
   "contact_location_title": "Адрес:",
   "contact_location_text": "Бухарская область, Узбекистан",
   "contact_email_title": "Email:",
-  "contact_email_text": "info@example.com",
+
   "contact_phone_title": "Телефон:",
-  "contact_phone_text": "+998931873602",
+
   "address_title": "Адрес",
   "address_text": "Узбекистан",
   "contact_block_title": "Контакты",
   "contact_block_phone": "Телефон:",
-  "contact_block_phone_number": "+998931873602",
+ 
   "contact_block_email": "Email:",
-  "contact_block_email_address": "info@example.com",
+ 
   "opening_title": "Часы работы",
   "opening_weekdays": "Пн–Сб:",
   "opening_weekdays_time": "8:00 – 22:00",

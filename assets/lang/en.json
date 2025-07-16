@@ -134,16 +134,16 @@
   "contact_location_title": "Location:",
   "contact_location_text": "Bukhara Region, Uzbekistan",
   "contact_email_title": "Email:",
-  "contact_email_text": "info@example.com",
+
   "contact_phone_title": "Call:",
-  "contact_phone_text": "+998931873602",
+ 
   "address_title": "Address",
   "address_text": "Uzbekistan",
   "contact_block_title": "Contact",
   "contact_block_phone": "Phone:",
-  "contact_block_phone_number": "+998931873602",
+ 
   "contact_block_email": "Email:",
-  "contact_block_email_address": "info@example.com",
+
   "opening_title": "Opening Hours",
   "opening_weekdays": "Mon-Sat:",
   "opening_weekdays_time": "8AM - 22PM",

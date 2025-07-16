@@ -133,16 +133,16 @@
   "contact_location_title": "Manzil:",
   "contact_location_text": "Buxoro viloyati, O‘zbekiston",
   "contact_email_title": "Email:",
-  "contact_email_text": "info@example.com",
+ 
   "contact_phone_title": "Telefon:",
-  "contact_phone_text": "+998931873602",
+
   "address_title": "Manzil",
   "address_text": "O‘zbekiston",
   "contact_block_title": "Aloqa",
   "contact_block_phone": "Telefon:",
-  "contact_block_phone_number": "+998931873602",
+
   "contact_block_email": "Email:",
-  "contact_block_email_address": "info@example.com",
+
   "opening_title": "Ish vaqti",
   "opening_weekdays": "Dushanba–Shanba:",
   "opening_weekdays_time": "8:00 – 22:00",
