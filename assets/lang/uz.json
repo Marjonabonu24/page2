@@ -1,11 +1,11 @@
 {
-  "about_paragraph_1": "EKVATORIAL GROUP mahsulotlarini mijozning texnik talablariga qat’iy rioya qilgan holda ishlab chiqaradi.",
+  "about_paragraph_1": "EKVATORIAL GURUH mahsulotlarini mijozning texnik talablariga qat’iy rioya qilgan holda ishlab chiqaradi.",
   "about_paragraph_2": "Tajriba sexi kompyuter yordamida loyihalash (CAD) tizimi bilan jihozlangan.",
   "about_paragraph_3": "Barcha ishlab chiqarish jarayonlari zamonaviy texnologiyalar asosida tashkil etilgan va yil sayin kengaymoqda.",
   "about_paragraph_4": "Materiallar maxsus laboratoriyalarda ko‘p bosqichli sinovdan o‘tkazilib, qat’iy standartlarga javob beradi.",
   "info_title": "Ma’lumot",
   "info_about": "Haqida",
-  "info_company": "EKVATORIAL GROUP",
+  "info_company": "EKVATORIAL GURUH",
   "product_range_title": "🧾 Mahsulotlar turlari",
   "product_range_intro": "Mahsulotlarimiz quyidagilarni o‘z ichiga oladi:",
   "branches_title": "Filiallar",
@@ -19,7 +19,7 @@
   "product_women_sundresses": "Ayollar sundresslari",
   "product_overalls": "Kombinezonlar",
   "product_sports_suits_pants": "Sport kostyum va shimlari",
-  "company_name": "EKVATORIAL GROUP",
+  "company_name": "EKVATORIAL GURUH",
   "company_description": "Kompaniya yirik kiyim-kechak va ish kiyimlari ishlab chiqaruvchisi.",
   "our_products": "MAHSULOTLARIMIZ",
   "join_login": "Kirish / Ro‘yxatdan o‘tish",
@@ -148,5 +148,7 @@
   "opening_weekdays_time": "8:00 – 22:00",
   "opening_sunday": "Yakshanba",
   "opening_sunday_status": "Yopiq",
-  "follow_title": "Bizni kuzatib boring"
+  "follow_title": "Bizni kuzatib boring",
+   "chopak_title":"EKVATORIAL CHODAK",
+  "chopak_title_2":"EKVATORIAL CHODAK"
 }
